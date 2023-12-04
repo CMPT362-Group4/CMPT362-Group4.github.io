@@ -11,3 +11,15 @@
   <h1>What is Streamline</h1>
   <p>{{ site.app_description }}</p>
 </div>
+
+<div class="user-details">
+  <h1>Key Features:</h1>
+  <div class="user">
+    {% for feature in site.features %}
+    <div class="tech">
+      <h2>{{ feature.title }}</h2>
+      <p>{{ feature.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>

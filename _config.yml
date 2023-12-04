@@ -8,3 +8,13 @@ github: CMPT362-Group4/Streamline
 apk_link: 
 
 app_description: Streamline is your personalized hub for all things entertainment. Tailored for enthusiasts who value simplicity and efficiency, Streamline empowers you to curate your favorite content effortlessly and share your interests with friends. Seamlessly organize your favorite movies, TV shows, and games in one place, making it easier than ever to keep track of your interests.
+
+features:
+  - title: Content Organization
+    description: Take control of your entertainment universe by adding the movies you want to watch, the TV shows you're interested in, and the games you're eager to play. With Streamline, everything is neatly organized in one intuitive interface.
+  - title: Release Notifications
+    description: Never miss a beat! Streamline keeps you in the loop by sending timely notifications when your awaited movies, TV shows, or games are released. Stay ahead of the curve and be the first to experience the latest content.
+  - title: Social Sharing
+    description: Connect with friends and share your passion for entertainment! Streamline allows you to share your favorite movies, TV shows, and games with others, making it easier than ever to connect with others who share your interests.
+  - title: Recommendations
+    description: Discover new content that you'll love! Streamline provides recommendations based on trend, allowing you to explore new movies, TV shows, and games that you might not have otherwise discovered.

@@ -13,10 +13,10 @@
 </div>
 
 <div class="user-details">
-  <h1>Key Features:</h1>
-  <div class="user">
+  <h1>Key Features</h1>
+  <div class="user" style="flex-wrap: wrap;">
     {% for feature in site.features %}
-    <div class="tech">
+    <div class="tech" style="flex: 1 1 35%;">
       <h2>{{ feature.title }}</h2>
       <p>{{ feature.description }}</p>
     </div>

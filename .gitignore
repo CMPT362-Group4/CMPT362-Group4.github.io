@@ -1,0 +1,15 @@
+# IDE
+.idea/
+.vscode
+*.iws
+*.iml
+*.ipr
+
+# OS
+.DS_Store
+.Trashes
+Thumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.lnk
+.Trash-*

@@ -18,3 +18,7 @@ features:
     description: Connect with friends and share your passion for entertainment! Streamline allows you to share your favorite movies, TV shows, and games with others, making it easier than ever to connect with others who share your interests.
   - title: Recommendations
     description: Discover new content that you'll love! Streamline provides recommendations based on trend, allowing you to explore new movies, TV shows, and games that you might not have otherwise discovered.
+
+videos:
+  - title: Project Pitch
+    video_id: RZVtfCn5POQ

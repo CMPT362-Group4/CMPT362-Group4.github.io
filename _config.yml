@@ -1,6 +1,9 @@
 title: Streamline
 description: CMPT362 Group 4 Project Streamline
 
+plugins:
+  - jekyll-minifier
+
 header: Streamline
 subheader: CMPT362 Group 4
 
